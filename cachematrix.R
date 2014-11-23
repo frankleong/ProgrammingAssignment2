@@ -1,3 +1,5 @@
+## Source : cachematrix.R
+
 ## Set of functions that calculate the inverse of a matrix, and cache it
 ##   for next call so that the same calculation does not need to perform again.
 
